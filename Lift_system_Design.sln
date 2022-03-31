@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lift_system_Design", "Lift_system_Design.csproj", "{1B63E9DB-95B2-4D6C-9042-6A233A17A7E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B63E9DB-95B2-4D6C-9042-6A233A17A7E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B63E9DB-95B2-4D6C-9042-6A233A17A7E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B63E9DB-95B2-4D6C-9042-6A233A17A7E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B63E9DB-95B2-4D6C-9042-6A233A17A7E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D329426-A4B3-4D3D-949E-4EED4AD0CF12}
+	EndGlobalSection
+EndGlobal
