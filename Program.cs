@@ -11,7 +11,7 @@ namespace OOP
 		{
 		//where the magic happens...
 		Start:
-			Console.WriteLine("Welcome to David's awesome elevator!!");
+			Console.WriteLine("Welcome to my awesome elevator!!");
 			Console.WriteLine("How tall is the building that this elevator will be in?");
 
 			int floor; string floorInput; Elevator elevator;
@@ -32,7 +32,7 @@ namespace OOP
 
 			while (input != QUIT)
 			{
-				Console.WriteLine("Please press which floor you would like to go to");
+				Console.WriteLine("Please press which floor you would like to go..");
 
 				input = Console.ReadLine();
 				if (Int32.TryParse(input, out floor))
@@ -40,7 +40,7 @@ namespace OOP
 				else if (input == QUIT)
 					Console.WriteLine("GoodBye!");
 				else
-					Console.WriteLine("You have pressed an incorrect floor, Please try again");
+					Console.WriteLine("You have pressed an incorrect floor No., Please try again with correct no.");
 			}
 		}
 	}
